@@ -1,7 +1,5 @@
 ## Hi, I'm David 🤩
 
-# 💫 About Me:
-Software Developer
 
 # Portfolio
 https://portfolio-plum-six-84.vercel.app/

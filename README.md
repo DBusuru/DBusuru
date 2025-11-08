@@ -1,7 +1,5 @@
 ## Hi, I'm David 🤩
 
-
-# Portfolio
 https://portfolio-plum-six-84.vercel.app/
 
 # 💻 Tech Stack:

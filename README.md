@@ -1,8 +1,7 @@
 ## Hi, I'm David 🤩
 
 # 💫 About Me:
-IT student at the Technical University of Kenya<br><br>
-Software Engineering student at GoMyCode<br><br>
+Software Developer
 
 # Portfolio
 https://portfolio-plum-six-84.vercel.app/

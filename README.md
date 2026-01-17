@@ -1,4 +1,4 @@
-https://portfolio-plum-six-84.vercel.app/
+https://davidbusuru.tech/
 
 
 # 📊 GitHub Stats:
